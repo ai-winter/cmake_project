@@ -1,0 +1,10 @@
+^D:\AI_PROJECT\CMAKEPROJECT\BUILD\CMAKEFILES\C8D038433A9570678DB8E9C5B944D3E3\GENERATE.STAMP.RULE
+setlocal
+D:\CMake\bin\cmake.exe -SD:/AI_Project/CMakeProject -BD:/AI_Project/CMakeProject/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/AI_Project/CMakeProject/build/CMakeProject.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

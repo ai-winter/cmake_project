@@ -1,0 +1,15 @@
+# ninja log v5
+1	467	6590905244554171	CMakeFiles/CMakeProject.dir/CMakeProject.cpp.obj	8a9f6d0eef451604
+3	773	6592827489909244	CMakeFiles/CMakeProject.dir/src/moduleA/subModuleA/subModuleA.cpp.obj	6183f1d52071e36e
+487	611	6592046534834609	CMakeProject.exe	f075530bbaaf2ae1
+0	6	0	clean	3c174d1ccbb5aeb4
+1	772	6592827489909244	CMakeFiles/CMakeProject.dir/src/moduleA/moduleA.cpp.obj	2db11ea3d930e323
+1	433	6591182196938084	CMakeFiles/CMakeProject.dir/src/CMakeProject.cpp.obj	39e9dbb2f4ca5c7c
+0	90	6594456764046477	build.ninja	90629b2867a8c92b
+3	370	6592046532660594	CMakeFiles/CMakeProject.dir/src/main.cpp.obj	de8f271064dc3898
+882	1003	6592017574091960	bin/CMakeProject.exe	ed28e56a0eb153e2
+6	361	6592046532610556	3rd/m_math/CMakeFiles/m_math.dir/src/m_math.cpp.obj	6bf761179837576b
+6	517	6592827484891609	../../../3rd/m_math/lib/m_math.dll	42cff42d0afbf52d
+6	517	6592827484891609	../../../3rd/m_math/lib/m_math.lib	42cff42d0afbf52d
+6	735	6592045996685904	3rd/m_info/CMakeFiles/m_math.dir/src/m_math.cpp.obj	e03ec2928c615db2
+8	772	6592827489909244	3rd/m_info/CMakeFiles/m_info.dir/src/m_info.cpp.obj	873826a5a8fd3fb5

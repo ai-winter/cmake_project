@@ -1,0 +1,4 @@
+﻿  Building Custom Rule D:/AI_Project/CMakeProject/3rd/m_math/CMakeLists.txt
+  m_math.cpp
+    正在创建库 D:/AI_Project/CMakeProject/3rd/m_math/lib/Debug/m_math.lib 和对象 D:/AI_Project/CMakeProject/3rd/m_math/lib/Debug/m_math.exp
+  m_math.vcxproj -> D:\AI_Project\CMakeProject\3rd\m_math\lib\Debug\m_math.dll

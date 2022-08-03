@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\AI_Project\CMakeProject\src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\AI_Project\CMakeProject\src\moduleA\moduleA.cpp">
+      <Filter>Source Files\moduleA</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\AI_Project\CMakeProject\src\moduleA\subModuleA\subModuleA.cpp">
+      <Filter>Source Files\moduleA\subModuleA</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\AI_Project\CMakeProject\include\moduleA\moduleA.h">
+      <Filter>Header Files\moduleA</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\AI_Project\CMakeProject\include\moduleA\subModuleA\subModuleA.h">
+      <Filter>Header Files\moduleA\subModuleA</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\AI_Project\CMakeProject\3rd\m_info\include\m_info.h">
+      <Filter>3rd\m_info\include</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\AI_Project\CMakeProject\3rd\m_math\include\m_math.h">
+      <Filter>3rd\m_math\include</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\AI_Project\CMakeProject\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="3rd">
+      <UniqueIdentifier>{EA689DA9-96ED-36BD-8E70-E585CACF9020}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3rd\m_info">
+      <UniqueIdentifier>{F80CDACD-295F-3ACF-AF8E-EB802390A8EF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3rd\m_info\include">
+      <UniqueIdentifier>{2DDCCCCC-D197-37A5-BFB2-73A8D38A6D2E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3rd\m_math">
+      <UniqueIdentifier>{C9AECFF3-8F99-30B7-BBEA-7337FB004F8E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3rd\m_math\include">
+      <UniqueIdentifier>{5AE8CAF9-1113-38C9-8254-9B432A391365}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{A37CDCCC-2848-31DF-8AD5-B05087123C9C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\moduleA">
+      <UniqueIdentifier>{2A35EC6A-FFCC-35A3-9A4B-0DC0F19ECBDA}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\moduleA\subModuleA">
+      <UniqueIdentifier>{EB72CE1B-16DC-39B8-8567-36AF90366FED}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{3AD055F9-ABAD-3CE9-915B-090D9D029F34}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\moduleA">
+      <UniqueIdentifier>{E12BECDB-EA60-3D73-95D6-2CBC48E0C113}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\moduleA\subModuleA">
+      <UniqueIdentifier>{118FA4D5-05FA-3A96-8B4E-BEA17D6855F7}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
